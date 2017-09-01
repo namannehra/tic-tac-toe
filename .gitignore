@@ -1,0 +1,6 @@
+# Project
+/build
+/debug
+
+# Editor
+/.vscode
